@@ -7,6 +7,7 @@
 - 🌱 **Estudando Python** para aprofundar meus conhecimentos em automação e aprendizado de máquina.
 - 👨‍💻 **Explorando projetos** que envolvem Inteligência Artificial e algoritmos.
 - 🔧 **Trabalhando em pequenos projetos web** usando HTML, CSS e JavaScript.
+- 🗣️ **Conhecimento básico de Inglês**, suficiente para leitura técnica e comunicação em projetos.
 
 
 <div>
