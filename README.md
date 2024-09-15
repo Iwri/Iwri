@@ -1,8 +1,13 @@
 ## Olá, meu nome é Iwri 👋
 
+- Sou um estudante de Engenharia de Computação, apaixonado por ciência, tecnologia e programação. Estou sempre em busca de novos desafios e oportunidades de aprendizado, especialmente em áreas como Inteligência Artificial.
+- Atualmente, estou aprimorando minhas habilidades em Python e já tenho uma base em HTML, CSS, e JavaScript.
+  
+## O que estou fazendo agora:
+- 🌱 **Estudando Python** para aprofundar meus conhecimentos em automação e aprendizado de máquina.
+- 👨‍💻 **Explorando projetos** que envolvem Inteligência Artificial e algoritmos.
+- 🔧 **Trabalhando em pequenos projetos web** usando HTML, CSS e JavaScript.
 
-
-- 🌱 Estou estudando Python
 
 <div>
   <a href=https://github.com/Iwri>
