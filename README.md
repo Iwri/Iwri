@@ -15,7 +15,7 @@ Aqui estão alguns dos projetos que mais me orgulho de ter desenvolvido.
 
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
-| **[BigInt: Inteiros de Precisão Arbitrária](httpsd://github.com/Iwri/BigInt-CPP)** | Classe em C++ para operações com números inteiros de tamanho ilimitado, com gerenciamento manual de memória e sobrecarga de operadores. | `C++`, `OOP` |
+| **[BigInt: Inteiros de Precisão Arbitrária](https://github.com/Iwri/BigInt-CPP)** | Classe em C++ para operações com números inteiros de tamanho ilimitado, com gerenciamento manual de memória e sobrecarga de operadores. | `C++`, `OOP` |
 | **[Simulador de Circuitos Digitais](https://github.com/Iwri/simulador-circuitos-digitais)** | Simulador em C++ que processa a topologia de um circuito, lida com lógica de 3 estados (T, F, ?) e resolve circuitos com ciclos. | `C++`, `Polimorfismo` |
 | **[Super Mario Jump (JS)](https://github.com/Iwri/Jogo-Super-Mario-Jump)** | Clone do jogo de pular do Mario, desenvolvido com HTML, CSS e JavaScript puro, com detecção de colisão e sistema de pontuação. | `JavaScript`, `HTML5`, `CSS3`|
 
